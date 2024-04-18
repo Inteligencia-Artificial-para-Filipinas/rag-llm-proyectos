@@ -1,0 +1,21 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter notebook kernel metadata
+*.ipynb-meta
+
+# Jupyter notebook temporary files
+*.ipynb_tmp
+
+# Jupyter notebook autosave
+.ipynbautosave/
+
+# Jupyter notebook output
+*.nbconvert.ipynb
+
+env
+
+.DS_Sore
+pdfs/.DS_Store
+
+.env
